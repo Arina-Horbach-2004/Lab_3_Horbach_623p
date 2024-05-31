@@ -59,8 +59,11 @@ GC.WaitForPendingFinalizers();
 ![](word.png)
 
 Результат створеного Excel файлу:
+
+Promotion
 ![](excel_promotion.png)
 
+RemovePromotion
 ![](excel_remove.png)
 
 # ВИСНОВОК
