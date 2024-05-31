@@ -55,15 +55,16 @@ GC.WaitForPendingFinalizers();
 
 # Результат виконання роботи
 
-Результат створеного Word файлу:
+**Результат створеного Word файлу:**
+
 ![](word.png)
 
-Результат створеного Excel файлу:
+**Результат створеного Excel файлу Promotion:**
 
-Promotion
 ![](excel_promotion.png)
 
-RemovePromotion
+**Результат створеного Excel файлу RemovePromotion:**
+
 ![](excel_remove.png)
 
 # ВИСНОВОК
